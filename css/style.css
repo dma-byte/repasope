@@ -1,0 +1,64 @@
+/* Site default Style */
+
+html {height: 100%; ; overflow-y: scroll;}
+body {background-color: #e9e9e9;font-family: 'Open Sans', Serif;}
+h1 {font-size: 1.5em}
+p{line-height: 120%;font-family: 'Open Sans', Serif}
+p.note{text-indent:0px;font-family: 'Open Sans'; font-size: 0.95em;line-height: 150%}
+bgblue{background-color:#4178c4}
+/* END Site default style */
+/* navigation */
+
+#nav ul{width:1000px;list-style: none; float:right;margin:0px;padding:0px 0px;height: 50px;overflow:hidden;background:white;}
+#nav ul li{background:white;float: left;margin:10px 0px}
+#nav ul li a{
+		font-family:'Open Sans';
+		font-size: 1.3em;color:#4178c4;
+		text-decoration: none;padding: 5px 22px;
+		
+		margin:0px 0px}
+#nav ul li a:hover{
+		background:#70A0E2;
+		color:white;
+		;}
+#nav ul li a:active{
+		background:#15427F;
+		color:white;
+		}
+		
+/* navigation END*/
+/* proximo */
+
+.proximo table{font-family: 'Open Sans',Serif;border:0px solid white;border-bottom-width:1px;border-top-width: 1px;border-right-width: 1px;border-left-width: 1px; margin:20px 0px;border-radius: 3px;}
+.proximo table td{font-family: 'Open Sans',Serif;border:1px solid white;padding:0px 60px 0px 60px;border-radius: 3px }
+.proximo table th{font-family: 'Open Sans',Serif;border:1px solid white;border-radius: 3px;border-bottom-width:1px;border-top-width: 1px;}
+
+.costo table{font-family: 'Open Sans',Serif;border:0px solid white;border-bottom-width:1px;border-top-width: 1px;border-right-width: 1px;border-left-width: 1px; margin:5px 0px;border-radius: 3px;}
+.costo table td{font-family: 'Open Sans',Serif;border:1px solid white;padding:0px 5px 0px 5px;border-radius: 3px }
+.costo table th{font-family: 'Open Sans',Serif;border:1px solid white;border-radius: 3px;border-bottom-width:1px;border-top-width: 1px;}
+
+
+/* proximo END */
+.g-plus{border: 0px;}
+.contacts{box-shadow: 6px 6px 5px #5f5f5f;width:240px;height:120px;text-align: center;overflow: hidden}
+.sidebar{margin:365px 0px 0px 765px;position:fixed;background-color:white}
+.ingenieros{font-size:1.0em;margin-left:-15px;background:#4178c4;color:white;font-family: 'Open Sans';padding:10px 5px 10px 5px;border:1px solid white;}
+.content{font-family: 'Open Sans'; font-size: 0.85em;margin:5px 10px 5px 15px;float:left}
+.section{width:100%;background-color:#4178c4;height:35px;color:white;font-family: 'Open Sans', serif; float: left;;margin: 0px}
+.menu {height:50px;color:#4178c4}
+.div_background {background:aqua}
+.table{font-family: 'Open Sans'; font-size: 0.85em;margin:0px;float:left;width:100%;border:2px solid white;}
+.tabletitle{height:25px;color:white;background-color: #4178c4;padding:5px 0px 0px 30px;border: 1px solid white}
+
+/* Footer Nav */
+.footer{width:100%;background-color:#4178c4;color:white;font-family: 'Open Sans', serif; float: left;border-radius: 3px}
+.footertitle{font-size: .80em;margin:10px 0px 0px 15px;color:white;background-color:#4178c4}
+.footernav{padding:0px;float:left;border-left:1px solid white;margin:15px 0px 0px 25px;height:70px;font-size: 1.05em}
+#fnav ul{width:100%;list-style: none;float: left ;margin:0px 0px 0px -25px;}
+#fnav ul li{;margin:0px;}
+#fnav ul li a{
+		font-family:'Open Sans';
+		font-size: 0.80em;color:white;
+		text-decoration: none;
+		margin:0px
+							}
